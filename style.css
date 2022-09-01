@@ -16,7 +16,9 @@
 }
 
 .intestazione>p{
+    text-align: center;
     margin: 1.5rem 5%;
+    padding: 0;
 }
 
 a{
